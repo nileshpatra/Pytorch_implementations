@@ -8,5 +8,6 @@ It includes :
  2. MNIST dataset analysis
  3. Pytorch classifier for cats and dogs
  4. MNIST classiier in pytorch
+ 5. Leaf disease classifier for apple plants , saved model using pickle in ```finalized_model1.sav```
  
  Note : epochs are kept low because of the overwhelming computation power and time required for training. 
